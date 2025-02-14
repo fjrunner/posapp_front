@@ -1,0 +1,16 @@
+# Node.js関連
+node_modules/
+
+# Next.jsビルドファイル
+.next/
+
+# 環境設定ファイル
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
